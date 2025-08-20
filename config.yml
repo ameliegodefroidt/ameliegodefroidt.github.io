@@ -52,8 +52,8 @@ params:
           subtitle: "I am an Assistant Professor in Conflict Management at the IESEG School of Management, France. My research focuses on public opinion formation during and after episodes of political violence and social contention."
           imageUrl: "picture.jpg"
           imageTitle: Amélie Godefroidt
-          imageWidth: 96
-          imageHeight: 120
+          imageWidth: 110
+          imageHeight: 130
           buttons:
             - name: Publications
               url: papers/
