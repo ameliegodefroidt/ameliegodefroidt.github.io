@@ -79,6 +79,8 @@ params:
           url: https://bsky.app/profile/ameliegodefroidt.bsky.social
         - name: ORCID
           url: https://orcid.org/0000-0002-5010-2860
+        - name: LinkedIn
+          url: https://linkedin.com/in/rosavandenende
 
     assets:
         disableScrollBarStyle: true
