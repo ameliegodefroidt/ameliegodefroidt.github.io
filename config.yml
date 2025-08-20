@@ -74,7 +74,7 @@ params:
         - name: Twitter
           url: https://x.com/agodefroidt
         - name: Bluesky
-          url: https://bsky.app/profile/agodefroidt.bsky.social
+          url: https://bsky.app/profile/ameliegodefroidt.bsky.social
         - name: ORCID
           url: https://orcid.org/0000-0002-5010-2860
 
