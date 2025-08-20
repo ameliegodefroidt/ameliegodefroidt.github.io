@@ -1,5 +1,6 @@
 baseURL: "https://ameliegodefroidt.github.io" 
 title: Amélie Godefroidt
+paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
