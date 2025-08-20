@@ -21,12 +21,9 @@ menu:
         - name: Data
           url: data/
           weight: 3
-        - name: Resume
-          url: cv_godefroidt.pdf
-          weight: 4
 
 params:
-    description: "This website hosts Amélie Godefroidt's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Amélie Godefroidt's research papers, course materials, data, curriculum vitae, and contact information."
     author: Amélie Godefroidt
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -41,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","courses","data","resume"]
+    MainSections: ["publications","courses","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,47 +51,34 @@ params:
           title: Amélie Godefroidt
           subtitle: "I am an Assistant Professor in Conflict Management at the IESEG School of Management, France. My research focuses on public opinion formation during and after episodes of political violence and social contention."
           imageUrl: "picture.jpeg"
+          imageTitle: Amélie Godefroidt
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
             - name: Courses
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Data
+              url: data/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:amelie.godefroidt@kuleuven.be
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=9EjHhVUAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://github.com/ameliegodefroidt
         - name: Twitter
-          url: https://x.com/pmichaillat
+          url: https://x.com/agodefroidt
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://bsky.app/profile/agodefroidt.bsky.social
+        - name: ORCID
+          url: https://orcid.org/0000-0002-5010-2860
 
     assets:
         disableScrollBarStyle: true
@@ -102,7 +86,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Amélie Godefroidt"
       icon: favicon.ico
       iconHeight: 18
 
