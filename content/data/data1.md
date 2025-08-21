@@ -2,11 +2,11 @@
 title: "How Terrorism Does (and Does Not) Affect Political Attitudes" 
 date: 2021-03-07
 tags: ["Terrorism","political attitudes","public opinion","meta-analysis","dataset"]
-author: ["Amélie Godefroidt","Martin Lukac"]
+author: ["Amélie Godefroidt"]
 description: "Meta-analytical dataset of studies on the relationship between terrorism and political attitudes."
 summary: "This dataset contains effect size estimates of the relationship between terrorism and political attitudes derived from 241 manuscript, which together account for 326 unique studies conducted between 1985 and 2020 among more than 400,000 respondents from approximately 30 countries."
 editPost:
-    URL: "[https://github.com/pmichaillat/hugo-website](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)"
+    URL: "[https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/]"
     Text: "meta-analysis"
 showToc: true
 disableAnchoredHeadings: false
