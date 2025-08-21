@@ -22,10 +22,12 @@ This dataset collects effect size estimates on the relationship between terroris
 ## View dataset
 
 + Dataset: [data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K4L5YI)
-+ Shiny App: [data](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
++ Shiny App: [app](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
++ Publication: [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12692)
   
 ---
 
 ## Citation
 
-Godefroidt, A. (2022). How Terrorism Does (and Does Not) Affect Citizens' Political Attitudes: A Meta-Analysis. _American Journal of Political Science_
+Godefroidt, A. (2023). How terrorism does (and does not) affect citizens’ political attitudes: a meta‐analysis. _American Journal of Political Science, 67_(1), 22-38.
+
