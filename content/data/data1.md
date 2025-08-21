@@ -1,6 +1,6 @@
 ---
 title: "How Terrorism Does (and Does Not) Affect Political Attitudes" 
-date: 2021-03-07
+date: 2021
 tags: ["Terrorism","political attitudes","public opinion","meta-analysis","dataset"]
 author: ["Amélie Godefroidt"]
 description: "Meta-analytical dataset of studies on the relationship between terrorism and political attitudes."
