@@ -19,8 +19,7 @@ editPost:
 ##### Download
 
 + [Paper](joc2020.pdf)
-+ [Appendix](joc2020suppl.pdf)
-+ [Replication Package](joc2020.pdf)
++ [Supplementary Materials](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/joc/70/4/10.1093_joc_jqaa011/1/jqaa011_supplementary_data.zip?Expires=1759849917&Signature=OxMHmb2J7vxVluCp3wPQLNVK6fXZvxBjZZ5gxwR4SMwQDenw0yjrge6vYKlI37lxYzKFTjTyEp0rFXorMmvvy7El6ijGWT0a3VIhALmEVDQigmICLkoQY8O81mLSn~~RRulb~HzuI6AxLbr9cGfvNJKz5~0pJEO7U9m9xv-d6u9yE1cA9Q9JpSdyXRWP7EVXAdNxdorLH3kwaAgAX1B375DhUAL4SWlTzTbtcjQotweIMqzRCiKoPjUwcP3U4GiyUGpTIVPEqPYVI1kKTtNDfkAwrGWuLpBzYa7hZ-BX4guNdmjiLRfTrhzz44EIMeFXQFEqNPcNBzYBjZ3eXxEiOw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
     
 ---
 
