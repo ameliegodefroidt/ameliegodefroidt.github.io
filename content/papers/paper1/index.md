@@ -6,7 +6,7 @@ author: ["Amélie Godefroidt"]
 description: "Published in the American Journal of Political Science, this article presents a meta-analysis of the effects of terrorism on social and political attitudes."
 summary: "This study provides the first comprehensive meta-analysis of terrorism’s impact on public opinion. By synthesizing evidence across diverse contexts and research designs, the paper shows that terrorism has systematic but limited effects on citizens’ political attitudes."
 cover:
-    image: "ajps2023.png"
+    image: ajps2023.png
     alt: "AJPS Terrorism Meta-Analysis"
     relative: true
 editPost:
@@ -21,7 +21,8 @@ editPost:
 
 + [Paper](ajps2023.pdf)
 + [Appendix](ajps2023suppl.pdf)
-+ [Code and data](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
++ [Shiny App](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
++ [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K4L5YI)
 
 ---
 
