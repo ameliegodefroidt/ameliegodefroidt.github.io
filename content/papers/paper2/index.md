@@ -6,7 +6,7 @@ author: ["Amélie Godefroidt","Arnim Langer"]
 description: "Published in the Journal of Peace Research, this article examines public attitudes toward the reintegration of former fighters in Nigeria using a conjoint experiment."
 summary: "This study investigates how Nigerian citizens evaluate reintegration scenarios for former fighters. Using a conjoint experiment, the article shows which attributes — such as remorse, community safety, and family ties — drive public support or resistance to reintegration."
 cover:
-    image: "jpr2023.png"
+    image: jpr2023.jpeg
     alt: "Reintegration of Former Fighters in Nigeria"
     relative: true
 editPost:
@@ -19,18 +19,20 @@ editPost:
 ##### Download
 
 + [Paper](jpr2023.pdf)
-
++ [Appendix](jpr2023suppl.pdf)
++ [Code and data](https://cdn.cloud.prio.org/files/e86529e7-f764-4515-8d55-d337339c86f3/GodefroidtLanger_2021_ReplicationFiles_final.zip)
+  
 ---
 
 ##### Abstract
 
-The reintegration of former fighters is a cornerstone of peacebuilding, yet it often meets resistance in war-affected communities. This article presents findings from a conjoint experiment conducted in Nigeria to explore what drives citizens’ attitudes toward reintegration. Results show that remorse, family ties, and community safety provisions strongly shape support for reintegration. These insights help policymakers design reintegration programs that are both effective and socially legitimate.
+Reintegrating ex-combatants back into society is one of the most challenging, yet fundamental components to building sustainable peace. While previous work has extensively evaluated the reintegration trajectories of ex-combatants, there is still little understanding of how citizens think about reintegration. In this article, we systematically analyze which former fighters people prefer to reintegrate into society. Based on theories of threat and justice, we develop a heuristic framework that explains how information about the motivations and behavior of ex-combatants shapes public preferences about whom to reintegrate. We test this framework using a conjoint experiment conducted among approximately 2,000 (former) university students in Nigeria. We find that our respondents are more forgiving towards former fighters who were forced to join the insurgency and expressed remorse afterwards, while being less willing to reintegrate more militant and less repentant offenders. Similar informational cues shape respondents’ evaluations of how successful the reintegration process would be and what punishment would be appropriate. Taken together, the results underscore the importance of perceptions of risk and fairness in driving attitudes towards reintegration. Finally, subgroup analyses revealed that these heuristics are broadly held across different demographic and conflict-related fault lines. While caution is warranted when generalizing these results, insights gained in this specific context are nonetheless an important step towards advancing our understanding of reintegration processes in conflict-affected countries.
 
 ---
 
 ##### Figure: Reintegration Preferences
 
-![](jpr2023.png)
+![](jpr2023.jpeg)
 
 ---
 
