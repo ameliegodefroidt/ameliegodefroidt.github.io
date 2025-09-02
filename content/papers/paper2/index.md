@@ -1,61 +1,54 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria"
+date: 2023-05-01
+tags: ["peacebuilding","reintegration","conjoint experiment","Nigeria","public opinion"]
+author: ["Amélie Godefroidt","Arnim Langer"]
+description: "Published in the Journal of Peace Research, this article examines public attitudes toward the reintegration of former fighters in Nigeria using a conjoint experiment."
+summary: "This study investigates how Nigerian citizens evaluate reintegration scenarios for former fighters. Using a conjoint experiment, the article shows which attributes — such as remorse, community safety, and family ties — drive public support or resistance to reintegration."
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "jpr2023.png"
+    alt: "Reintegration of Former Fighters in Nigeria"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
-
+    URL: "https://doi.org/10.1177/00223433221087070"
+    Text: "Journal of Peace Research"
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
++ [Paper](jpr2023.pdf)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The reintegration of former fighters is a cornerstone of peacebuilding, yet it often meets resistance in war-affected communities. This article presents findings from a conjoint experiment conducted in Nigeria to explore what drives citizens’ attitudes toward reintegration. Results show that remorse, family ties, and community safety provisions strongly shape support for reintegration. These insights help policymakers design reintegration programs that are both effective and socially legitimate.
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure: Reintegration Preferences
 
-![](paper2.png)
+![](jpr2023.png)
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Godefroidt, Amélie, and Arnim Langer. 2023. "What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria." *Journal of Peace Research* 60(3): 410–427. https://doi.org/10.1177/00223433221087070
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+@article{GodefroidtLanger2023,
+  author = {Godefroidt, Amélie and Langer, Arnim},
+  year = {2023},
+  title ={What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria},
+  journal = {Journal of Peace Research},
+  volume = {60},
+  number = {3},
+  pages = {410--427},
+  doi = {10.1177/00223433221087070},
+  url = {https://doi.org/10.1177/00223433221087070}
+}
 ```
 
----
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
