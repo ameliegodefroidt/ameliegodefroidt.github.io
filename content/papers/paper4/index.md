@@ -19,6 +19,8 @@ editPost:
 ##### Download
 
 + [Paper](cmps2025.pdf)
++ [Appendix](cmps2025suppl.pdf)
++ [Replication Package](https://doi.org/10.7910/DVN/GK4FCA)
 
 ---
 
