@@ -6,7 +6,7 @@ author: ["Amélie Godefroidt","Lala Muradova"]
 description: "Published in Political Psychology, this article explores how intergroup bias shapes public support for peace provisions in post-war Azerbaijan."
 summary: "Drawing on experimental data from Azerbaijan, this article shows that intergroup bias significantly reduces support for peace provisions in the aftermath of war. The findings illustrate the challenges of overcoming deep-seated hostilities in post-conflict societies."
 cover:
-    image: "polpsych2025.png"
+    image: "polpsych2025.jpg"
     alt: "Peace Provisions in Azerbaijan"
     relative: true
 editPost:
@@ -31,7 +31,7 @@ What drives public support for peace provisions? Based on intergroup attribution
 
 ##### Figure: Public Support for Peace Provisions
 
-![](polpsych2025.png)
+![](polpsych2025.jpg)
 
 ---
 
