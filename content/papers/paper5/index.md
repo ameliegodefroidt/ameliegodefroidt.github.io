@@ -4,7 +4,7 @@ date: 2020-08-01
 tags: ["media coverage","religious violence","Boko Haram","Nigeria","political communication"]
 author: ["Leila Demarest","Amélie Godefroidt","Arnim Langer"]
 description: "Published in the Journal of Communication, this article analyzes news coverage of Boko Haram in Nigeria to examine how media represent religious-based violence."
-summary: "Through a comparative analysis of news coverage of Boko Haram in Nigeria, this article shows how religious-based violence is framed, the theoretical implications of these representations, and their consequences for public understanding of conflict."
+summary: "Combining content analysis with in-depth interviews with journalists and editors, this article shows how religious-based violence is framed, how editorial choices and professional constraints shape coverage, and what this means for our theoretical understanding of conflict coverage."
 cover:
     image: "joc2020.png"
     alt: "News Coverage of Boko Haram"
