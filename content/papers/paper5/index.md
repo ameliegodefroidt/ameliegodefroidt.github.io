@@ -29,7 +29,7 @@ Recent studies on conflict and terrorism news coverage have documented an ingrou
 
 ---
 
-##### Figure: Media Representations of Boko Haram
+##### Figure: Power Dynamics and News Coverage
 
 ![](joc2020.png)
 
