@@ -6,7 +6,7 @@ author: ["Amélie Godefroidt","Karin Dyrstad"]
 description: "Published in Conflict Management and Peace Science, this article examines how conflict exposure and trauma shape public support for truth commissions."
 summary: "Do conflict exposure and trauma increase or decrease support for transitional justice? Drawing on cross-country survey data, this study shows that the effects are more limited than often assumed and highly depend on contextual factors."
 cover:
-    image: "cmps2024.png"
+    image: "cmps2025.jpeg"
     alt: "Truth Commissions and Public Support"
     relative: true
 editPost:
@@ -30,7 +30,7 @@ Truth commissions are widely used transitional justice mechanisms, yet public su
 
 ##### Figure: Support for Truth Commissions
 
-![](cmps2024.png)
+![](cmps2025.jpeg)
 
 ---
 
