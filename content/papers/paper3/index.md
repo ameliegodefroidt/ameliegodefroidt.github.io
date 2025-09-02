@@ -4,7 +4,7 @@ date: 2025-03-01
 tags: ["peace agreements","intergroup bias","Azerbaijan","Nagorno-Karabakh","public opinion"]
 author: ["Amélie Godefroidt","Lala Muradova"]
 description: "Published in Political Psychology, this article explores how intergroup bias shapes public support for peace provisions in post-war Azerbaijan."
-summary: "Drawing on survey data from Azerbaijan, this article shows that intergroup bias significantly reduces support for peace provisions in the aftermath of war. The findings illustrate the challenges of overcoming deep-seated hostilities in post-conflict societies."
+summary: "Drawing on experimental data from Azerbaijan, this article shows that intergroup bias significantly reduces support for peace provisions in the aftermath of war. The findings illustrate the challenges of overcoming deep-seated hostilities in post-conflict societies."
 cover:
     image: "polpsych2025.png"
     alt: "Peace Provisions in Azerbaijan"
@@ -24,7 +24,7 @@ editPost:
 
 ##### Abstract
 
-Can citizens accept peace provisions after violent conflict? This article examines how intergroup bias shapes support for compromise in post-war Azerbaijan. Findings indicate that strong biases against outgroups significantly reduce acceptance of provisions related to territory, governance, and security. The study highlights the obstacles that psychological dynamics pose for sustainable peace and the importance of targeted reconciliation efforts.
+What drives public support for peace provisions? Based on intergroup attribution theory, we argue that public support for peace provisions depends on “who bears the burden of peace,” with people wanting to protect their ingroup while holding the outgroup accountable. To examine this claim, we conducted a series of question-wording experiments with more than 1650 Azerbaijani participants shortly after a deadly resurgence of the Nagorno-­ Karabakh war. Our initial findings confirm that support for war crime punishments and monetary reparations decreases when the ingroup stands trial or must pay. Conversely, support increases when these same burdens fall on the outgroup. A follow-­ up study shows that these patterns persist for at least 6 months but also reveals a more nuanced perspective. Public support for peace provisions does not automatically decrease when the ingroup bears the cost or increase when the outgroup bears it; rather, it depends on the group-­ based implications of the provision under consideration. Taken together, our results underscore the importance of crafting and communicating peace provisions in a tailored manner and the potential of emphasizing burden sharing as an effective strategy for addressing intergroup hostilities and fostering sustainable peace.
 
 ---
 
