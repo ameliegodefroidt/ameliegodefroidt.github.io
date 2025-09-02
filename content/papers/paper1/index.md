@@ -55,3 +55,11 @@ Godefroidt, Amélie. 2023. "How Terrorism Does (and Does Not) Affect Citizens’
   url = {https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12692}
 }
 ```
+
+
+##### Related material
+
++ [Interactive dataset](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
++ [News coverage – Science Norway](https://partner.sciencenorway.no/conflict-ntnu-psychology/how-terrorism-affects-our-attitudes/2077957)
++ [News coverage – Deutsche Welle](https://www.dw.com/en/belgium-terrorist-shooting-underlines-tense-mood-in-europe/a-67127823)
++ [News coverage – Infolibre (Spain)](https://www.infolibre.es/politica/feijoo-castigo-inmigrantes-sur-sufriran-crimen-algeciras_1_1414724.html)
