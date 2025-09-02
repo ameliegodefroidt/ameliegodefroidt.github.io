@@ -6,7 +6,7 @@ author: ["Amélie Godefroidt","Karin Dyrstad","Kristin Bakke"]
 description: "Published in the Journal of Elections, Public Opinion and Parties, this article uses a quasi-natural experiment to examine how Brexit affected political attitudes in Northern Ireland."
 summary: "This study leverages a quasi-natural experiment to investigate how Brexit reshaped attitudes in Northern Ireland. The article shows that both the Brexit campaign and its outcome interacted with historical conflict narratives to influence public perceptions of the future of Northern Ireland."
 cover:
-    image: "jepop2023.png"
+    image: "jepop2023.jpeg"
     alt: "Brexit and Public Opinion in Northern Ireland"
     relative: true
 editPost:
@@ -30,7 +30,7 @@ The UK’s decision to leave the European Union has raised questions about wheth
 
 ##### Figure: Brexit and Attitudes in Northern Ireland
 
-![](jepop2023.png)
+![](jepop2023.jpeg)
 
 ---
 
