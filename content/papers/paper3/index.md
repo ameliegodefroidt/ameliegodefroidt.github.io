@@ -37,7 +37,7 @@ What drives public support for peace provisions? Based on intergroup attribution
 
 ##### Citation
 
-Godefroidt, Amélie, and Lala Muradova. 2025. "Intergroup Bias and Public Support for Peace Provisions: Insights from Post-War Azerbaijan." *Political Psychology* 46(2): 255–483. https://doi.org/10.1111/pops.13008
+Godefroidt, Amélie, and Lala Muradova. 2025. "Bearing the burden of peace: Intergroup attribution bias and public support for peace provisions." *Political Psychology* 46(2): 300-320. https://doi.org/10.1111/pops.13008
 
 ```BibTeX
 @article{GodefroidtMuradova2025,
@@ -47,7 +47,7 @@ Godefroidt, Amélie, and Lala Muradova. 2025. "Intergroup Bias and Public Suppor
   journal = {Political Psychology},
   volume = {46},
   number = {2},
-  pages = {255--483},
+  pages = {300--320},
   doi = {10.1111/pops.13008},
   url = {https://doi.org/10.1111/pops.13008}
 }
