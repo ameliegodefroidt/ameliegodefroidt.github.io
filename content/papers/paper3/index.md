@@ -19,6 +19,7 @@ editPost:
 ##### Download
 
 + [Paper](polpsych2025.pdf)
++ [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fpops.13008&file=pops13008-sup-0001-Supinfo.pdf)
 
 ---
 
