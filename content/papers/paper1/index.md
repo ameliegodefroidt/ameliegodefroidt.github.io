@@ -20,7 +20,7 @@ editPost:
 ##### Download
 
 + [Paper](ajps2023.pdf)
-+ [Code and data]([https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/])
++ [Code and data](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
 
 ---
 
