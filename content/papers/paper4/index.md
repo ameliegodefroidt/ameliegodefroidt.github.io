@@ -1,10 +1,10 @@
 ---
 title: "Hurting or Healing? How Conflict Exposure and Trauma (Do Not) Shape Support for Truth Commissions"
-date: 2024-06-01
+date: 2025-09-01
 tags: ["transitional justice","truth commissions","conflict exposure","trauma","public opinion"]
 author: ["Amélie Godefroidt","Karin Dyrstad"]
 description: "Published in Conflict Management and Peace Science, this article examines how conflict exposure and trauma shape public support for truth commissions."
-summary: "Do conflict exposure and trauma increase or decrease support for transitional justice? Drawing on survey data, this study shows that the effects are more limited than often assumed and depend on contextual and psychological factors."
+summary: "Do conflict exposure and trauma increase or decrease support for transitional justice? Drawing on cross-country survey data, this study shows that the effects are more limited than often assumed and highly depend on contextual factors."
 cover:
     image: "cmps2024.png"
     alt: "Truth Commissions and Public Support"
@@ -18,7 +18,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](cmps2024.pdf)
++ [Paper](cmps2025.pdf)
 
 ---
 
