@@ -1,52 +1,53 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Intergroup Bias and Public Support for Peace Provisions: Insights from Post-War Azerbaijan"
+date: 2025-03-01
+tags: ["peace agreements","intergroup bias","Azerbaijan","Nagorno-Karabakh","public opinion"]
+author: ["Amélie Godefroidt","Lala Muradova"]
+description: "Published in Political Psychology, this article explores how intergroup bias shapes public support for peace provisions in post-war Azerbaijan."
+summary: "Drawing on survey data from Azerbaijan, this article shows that intergroup bias significantly reduces support for peace provisions in the aftermath of war. The findings illustrate the challenges of overcoming deep-seated hostilities in post-conflict societies."
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image: "polpsych2025.png"
+    alt: "Peace Provisions in Azerbaijan"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
-
+    URL: "https://doi.org/10.1111/pops.13008"
+    Text: "Political Psychology"
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](polpsych2025.pdf)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+Can citizens accept peace provisions after violent conflict? This article examines how intergroup bias shapes support for compromise in post-war Azerbaijan. Findings indicate that strong biases against outgroups significantly reduce acceptance of provisions related to territory, governance, and security. The study highlights the obstacles that psychological dynamics pose for sustainable peace and the importance of targeted reconciliation efforts.
+
+---
+
+##### Figure: Public Support for Peace Provisions
+
+![](polpsych2025.png)
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Godefroidt, Amélie, and Lala Muradova. 2025. "Intergroup Bias and Public Support for Peace Provisions: Insights from Post-War Azerbaijan." *Political Psychology* 46(2): 255–483. https://doi.org/10.1111/pops.13008
 
 ```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+@article{GodefroidtMuradova2025,
+  author = {Godefroidt, Amélie and Muradova, Lala},
+  year = {2025},
+  title ={Intergroup Bias and Public Support for Peace Provisions: Insights from Post-War Azerbaijan},
+  journal = {Political Psychology},
+  volume = {46},
+  number = {2},
+  pages = {255--483},
+  doi = {10.1111/pops.13008},
+  url = {https://doi.org/10.1111/pops.13008}
+}
 ```
-
----
-
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
