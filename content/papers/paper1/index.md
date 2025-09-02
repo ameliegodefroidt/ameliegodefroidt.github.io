@@ -26,7 +26,7 @@ editPost:
 
 ##### Abstract
 
-How does terrorism affect citizens’ political attitudes? While scholars often assume powerful and lasting effects, individual studies have produced mixed findings. This article synthesizes the available evidence through a three-level meta-analysis. Results show that terrorism has consistent but modest effects on public opinion: it increases perceptions of threat and reduces social trust, but has limited or no effects on core political values. The findings challenge alarmist narratives and highlight the need for nuanced theorizing about when, how, and for whom terrorism matters.
+How does terrorism affect citizens’ political attitudes? Over the years, many scholars have tried to answer this question. This article performs a meta-analysis on this literature, reviewing about 325 studies conducted between 1985 and 2020 on more than 400,000 respondents. The findings confirm that terrorism is associated—to a small but significant extent—with outgroup hostility, political conservatism and rally-‘round-the-flag effects. At the same time, the effects of terrorism vary widely, with studies on Islamist violence, conducted in the United States or Israel, and using cross-sectional data yielding stronger results on average. Finally, the review reveals remaining gaps in this field of study, including a lack of research on non-Islamist violence or conducted in non-Western contexts. Taken together, this meta-analysis consolidates existing evidence, determines which results hold across contexts, and identifies key gaps in our current knowledge. Its data can also be accessed interactively via a Shiny App.
 
 ---
 
@@ -52,10 +52,4 @@ Godefroidt, Amélie. 2023. "How Terrorism Does (and Does Not) Affect Citizens’
   doi = {10.1111/ajps.12692},
   url = {https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12692}
 }
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
+```
