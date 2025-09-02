@@ -19,6 +19,7 @@ editPost:
 ##### Download
 
 + [Paper](tpv2020.pdf)
++ [Replication Package](https://doi.org/10.7910/DVN/YQRUJR)
 
 ---
 
