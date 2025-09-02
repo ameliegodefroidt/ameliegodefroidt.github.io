@@ -1,5 +1,5 @@
 ---
-title: "Intergroup Bias and Public Support for Peace Provisions: Insights from Post-War Azerbaijan"
+title: "Bearing the Burden of Peace: Intergroup Attribution Bias and Public Support for Peace Provisions"
 date: 2025-03-01
 tags: ["peace agreements","intergroup bias","Azerbaijan","Nagorno-Karabakh","public opinion"]
 author: ["Amélie Godefroidt","Lala Muradova"]
