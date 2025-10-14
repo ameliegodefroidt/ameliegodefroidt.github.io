@@ -4,12 +4,12 @@ date: 2025
 tags: ["Statistics", "Inferential Statistics", "Descriptive Statistics"]
 author: "Amélie Godefroidt and Johan Maes"
 description: "This graduate course offers an introduction in statistics." 
-summary: "This graduate course presents an introduction into descriptive and inferential statistics." 
+summary: "It is often said that data is the new gold. This course is designed to immerse students into the principles of proper statistical data analysis and interpretation for business, descriptive as well as inferential." 
 cover:
     alt: "Statistics"
     relative: true
 editPost:
-    URL: "www.ameliegodefroidt.com"
+    URL: "[https://www.ieseg.fr/en/programs/specialized-masters/master-international-business/program-content](https://www.ieseg.fr/en/programs/specialized-masters/master-international-business/program-content/)"
     Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
@@ -33,5 +33,4 @@ In sum, this course equips students with a practical toolkit to make evidence-ba
 
 ## Team
 
-This course has been developped and coordinated by Johan Maes. I am teaching the 2025-cohort in Paris.
-
+This course was developed and coordinated by Johan Maes. I am responsible for teaching the 2025 cohort in Paris.
