@@ -1,7 +1,7 @@
 ---
 title: "Intro to Statistics"
 date: 2025
-tags: ["Statistics" "Inferential Statistics" "Descriptive Statistics"]
+tags: ["Statistics", "Inferential Statistics", "Descriptive Statistics"]
 author: "Amélie Godefroidt and Johan Maes"
 description: "This graduate course offers an introduction in statistics." 
 summary: "This graduate course presents an introduction into descriptive and inferential statistics." 
