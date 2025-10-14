@@ -1,44 +1,44 @@
 ## Teaching
 
-I am passionate about innovative, interactive, and inclusive teaching.  
-My courses integrate open science practices, applied data analysis, and experiential learning.
+I am passionate about innovative, interactive, and inclusive teaching.  My courses integrate open science practices, applied data analysis, and experiential learning.
 
 ---
 
 ### 📘 IESEG School of Management (France)
-**Assistant Professor, Department of International Negotiation & Conflict Management (2025–present)**
 
-- **Statistics for Business (MA, Paris Campus)**  
-  Introduction to descriptive and inferential statistics for evidence-based business decisions.  
-  Includes SPSS and R-based exercises, interactive Shiny apps, and Quarto notebooks.
+**Lecturer**
+- **Statistics for Business (MA, 2025)**  
+  Introduction to descriptive and inferential statistics for evidence-based business decisions.
 
 ---
 
 ### 🎓 KU Leuven (Belgium)
-**Lecturer & Postdoctoral Researcher, Centre for Research on Peace and Development (CRPD)**
 
+**Course Coordinator**
 - **Political Communication (MA, 2022–2024)**  
   Media effects, framing, and public opinion formation.  
 - **Sociology of Media and ICT (BA, 2022–2023)**  
-  Theories and empirical research on media and digital communication.  
+  Media, digital communication, and society. 
 - **International Relations Seminar (BA, 2016–2019)**  
-  Supervised student research projects in international relations.
+  Core theories and research projects in international relations.
 
 **Guest Lectures**
-- *Peace Research and Conflict Management (MA, 2017)* — Peacebuilding  
-- *Research Methods (MA, 2016–2017)* — Qualitative labs and assessment
+- Peace Research and Conflict Management (MA, 2017) — Peacebuilding  
+- Research Methods (MA, 2016–2017) — Qualitative labs and assessment
 
 ---
 
 ### 🇳🇴 Norwegian University of Science and Technology (NTNU)
-**Guest Lecturer, Department of Sociology and Political Science**
 
-- *Causes of War (MA, 2021–2022)* — Terrorism and political violence
+**Guest Lectures**
+- Causes of War (MA, 2021–2022) — Terrorism and political violence
 
 ---
 
 ### 🇧🇪 Ghent University
-**Summer School on Open Science in the Social Sciences (2025)**
+
+**Course Coordinator**
+- Summer School on Open Science in the Social Sciences (2025)
 
 ---
 
