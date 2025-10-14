@@ -1,8 +1,4 @@
-+++
-title = "Teaching"
-summary = "Courses and workshops I have taught at IESEG, KU Leuven, Ghent University, NTNU, and beyond."
-type = "page"
-+++
+# Teaching 
 
 I integrate open science practices, applied data analysis, and experiential learning to make social science and business statistics both rigorous and relevant. By doing so, I hope my courses encourage students to think critically, engage actively, and apply what they learn to real-world challenges.  
 
