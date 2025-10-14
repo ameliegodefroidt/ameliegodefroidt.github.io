@@ -12,7 +12,7 @@ I am passionate about innovative, interactive, and inclusive teaching.  My cours
 
 ---
 
-### 🎓 KU Leuven (Belgium)
+### 🇧🇪 KU Leuven (Belgium)
 
 **Course Coordinator**
 - **Political Communication (MA, 2022–2024)**  
@@ -42,7 +42,7 @@ I am passionate about innovative, interactive, and inclusive teaching.  My cours
 
 ---
 
-### 🧠 PhD-Level Workshops (KU Leuven & NTNU)
+### PhD-Level Workshops 
 - *Pre-Registration, Pre-Analysis, Pre-What?!* (2019 & 2022)  
 - *Social Media and Online Presence* (2022)  
 - *Research Ethics in an International Context* (2022)  
