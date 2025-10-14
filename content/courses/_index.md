@@ -28,10 +28,11 @@ I integrate open science practices, applied data analysis, and experiential lear
 
 ## 🇧🇪 KU Leuven (Belgium)
 
-**Course Coordinator, Centre for Research on Peace and Development (CRPD)**
+**Course Coordinator, Faculty of Social Sciences**
 
 - **Political Communication (MA, 2022–2024)**
-  Explores how the interplay between political actors, the media, and the public shapes political communication and how political communication influences citizens, policymaking, and society at large.
+
+Explores how the interplay between political actors, the media, and the public shapes political communication and how political communication influences citizens, policymaking, and society at large.
 
 - **Sociology of Media and ICT (BA, 2022–2023)**  
   Introduces key theories and empirical research on media, digital communication, and society.  
@@ -40,7 +41,7 @@ I integrate open science practices, applied data analysis, and experiential lear
   Applies core theories of international relations through independent research projects.  
 
 
-**Guest Lectures**  
+**Guest Lecturer, Centre for Research on Peace and Development (CRPD)**
 - Peace Research and Conflict Management (MA, 2017) — Peacebuilding  
 - Research Methods (MA, 2016–2017) — Qualitative research labs and assessment  
 
