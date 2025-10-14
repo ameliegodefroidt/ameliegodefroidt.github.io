@@ -1,5 +1,3 @@
-# Teaching 
-
 I integrate open science practices, applied data analysis, and experiential learning to make social science and business statistics both rigorous and relevant. By doing so, I hope my courses encourage students to think critically, engage actively, and apply what they learn to real-world challenges.  
 
 
@@ -30,9 +28,8 @@ I integrate open science practices, applied data analysis, and experiential lear
 
 **Course Coordinator, Faculty of Social Sciences**
 
-- **Political Communication (MA, 2022–2024)**
-
-Explores how the interplay between political actors, the media, and the public shapes political communication and how political communication influences citizens, policymaking, and society at large.
+- **Political Communication (MA, 2022–2024)**  
+  Explores how the interplay between political actors, the media, and the public shapes political communication and how political communication influences citizens, policymaking, and society at large.  
 
 - **Sociology of Media and ICT (BA, 2022–2023)**  
   Introduces key theories and empirical research on media, digital communication, and society.  
