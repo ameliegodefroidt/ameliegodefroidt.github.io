@@ -65,7 +65,7 @@ params:
             - name: Data
               url: data/
             - name: CV
-              url: cv/
+              url: cv.pdf
 
     socialIcons:
         - name: Email
