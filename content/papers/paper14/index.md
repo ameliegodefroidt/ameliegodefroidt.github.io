@@ -6,7 +6,7 @@ author: ["Micha Germann", "Amélie Godefroidt","Fernando Mendez"]
 description: "Accepted for publication in the European Journal of Political Research, this article examines how the effects of Islamist terrorism on political attitudes in Western democracies change over time."
 summary: "Are people becoming desensitized to terrorism? Drawing on a temporal meta-analysis and a controlled comparison of two natural experiments, we find little evidence that responsiveness has systemically diminished -- or increased -- over time."
 cover:
-    image: "ejpr2026.png"
+    image: "2026_ejpr.png"
     alt: "Terrorism and Political Attitudes over Time"
     relative: true
 editPost:
@@ -37,17 +37,14 @@ Recent literature suggests that citizens in Western democracies have become dese
 
 ##### Citation
 
-Germann, Micha, Godefroidt, Amélie, and Fernando Mendez. 2027. "Does terrorism still affect political attitudes?" *European Journal of Political Research* Accepted for publication.
+Germann, Micha, Godefroidt, Amélie, and Fernando Mendez. 2026. "Does Islamist Terrorism Still Affect Political Attitudes?" *European Journal of Political Research.* Accepted for publication.
 
 ```BibTeX
-@article{GodefroidtDyrstad2024,
-  author = {Godefroidt, Amélie and Dyrstad, Karin},
-  year = {2025},
-  title ={Hurting or Healing? How Conflict Exposure and Trauma (Do Not) Shape Support for Truth Commissions},
-  journal = {Conflict Management and Peace Science},
-  volume = {42},
-  number = {5},
-  pages = {514--535},
-  doi = {10.1177/07388942241285609},
-  url = {https://doi.org/10.1177/07388942241285609}
+@article{Germann2026terrorsm,
+  author       = {Germann, Micha and Godefroidt, Am{\'e}lie and Mendez, Fernando},
+  title        = {Does Islamist Terrorism Still Affect Political Attitudes?},
+  journal      = {European Journal of Political Research},
+  year         = {2026},
+  note         = {Accepted for publication}
+}
 
