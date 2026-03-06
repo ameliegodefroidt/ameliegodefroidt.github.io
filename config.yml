@@ -23,7 +23,7 @@ menu:
           weight: 3
         - name: CV
           url: cv/
-          weight: 3
+          weight: 4
 
 params:
     description: "This website hosts Amélie Godefroidt's research papers, course materials, data, curriculum vitae, and contact information."
