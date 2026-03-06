@@ -21,9 +21,6 @@ menu:
         - name: Data
           url: data/
           weight: 3
-        - name: CV
-          url: cv/
-          weight: 4
 
 params:
     description: "This website hosts Amélie Godefroidt's research papers, course materials, data, curriculum vitae, and contact information."
@@ -65,7 +62,7 @@ params:
             - name: Data
               url: data/
             - name: CV
-              url: cv.pdf
+              url: cv/cv.pdf
 
     socialIcons:
         - name: Email
