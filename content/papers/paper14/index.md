@@ -1,6 +1,6 @@
 ---
 title: "Does Islamist Terrorism Still Affect Political Attitudes?"
-date: 2026-15-01
+date: 2026-01-15
 tags: ["terrorism","political attitudes","desensitization","meta-analysis","public opinion"]
 author: ["Micha Germann", "Amélie Godefroidt","Fernando Mendez"]
 description: "Accepted for publication in the European Journal of Political Research, this article examines how the effects of Islamist terrorism on political attitudes in Western democracies change over time."
