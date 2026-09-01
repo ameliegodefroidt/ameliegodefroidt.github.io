@@ -38,7 +38,7 @@ When democracies face existential threats, do citizens uphold the political righ
 
 ##### Citation
 
-Daniels, L.-A., & Godefroidt, A. (2026). You Traitor! Collaboration, perceived betrayal, and political tolerance in Ukraine. *American Journal of Political Science*. Forthcoming.
+Daniels, L.-A., & Godefroidt, A. (2026). You Traitor! Collaboration, perceived betrayal, and political tolerance in Ukraine. *American Journal of Political Science*. Forthcoming (pending data verification).
 
 ```BibTeX
 @article{
