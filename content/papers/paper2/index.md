@@ -24,9 +24,7 @@ editPost:
 
 ##### Abstract
 
-Political distrust is widespread in many African countries, yet considerably less is known about how political trust develops in these contexts. Using data from the 2013 National Service Scheme Survey in Ghana, this article examines institutional trust by bringing together two prominent explanations: cultural theories, which emphasize citizens’ underlying values and attachments, and institutional performance theories, which emphasize evaluations of how political institutions function.
-
-The analyses provide considerably stronger support for institutional performance explanations than for cultural accounts. Citizens who evaluate political institutions and government performance more positively also express substantially greater institutional trust. At the same time, national pride emerges as an important cultural correlate of trust. The findings highlight the need to study trust-building in developing democracies in ways that take both institutional performance and country-specific cultural dynamics seriously.
+Political distrust is often widespread in African countries, but the prospects for increasing trust are uncertain given the lack of research on the origins of political trust in the region. Using the 2013 NSS Survey in Ghana and employing hierarchical regression analyses, we develop a model of institutional trust based on insights from both cultural and institutional performance theories. The results clearly support the superiority of institutional performance theories while at the same time providing limited support for cultural explanations. National pride, however, does also substantially encourage institutional trust. This asks for future, cultural-specific studies on trust-building in developing countries trying to establish working institutions using more representative, cross-national, and longitudinal data.
 
 ---
 
