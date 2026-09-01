@@ -13,7 +13,7 @@ cover:
 editPost:
   URL: "https://doi.org/10.1037/pac0000385"
   Text: "Peace and Conflict: Journal of Peace Psychology"
--------------------------------------------------------
+---
 
 ---
 
