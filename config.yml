@@ -6,6 +6,8 @@ pagination:
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+titleCaseStyle: none
+enableGitInfo: true
 
 taxonomies:
     tag: tags
@@ -55,7 +57,7 @@ params:
           imageWidth: 110
           imageHeight: 130
           buttons:
-            - name: Publications
+            - name: Papers
               url: papers/
             - name: Courses
               url: courses/
@@ -71,19 +73,17 @@ params:
           url: cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=9EjHhVUAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/ameliegodefroidt
-        - name: Twitter
-          url: https://x.com/agodefroidt
         - name: Bluesky
           url: https://bsky.app/profile/ameliegodefroidt.bsky.social
         - name: ORCID
           url: https://orcid.org/0000-0002-5010-2860
-
+        - name: GitHub
+          url: https://github.com/ameliegodefroidt
+          
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
       text: "Amélie Godefroidt"
@@ -96,7 +96,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: xcode 
     tableOfContents:
         endLevel: 2
         ordered: false
