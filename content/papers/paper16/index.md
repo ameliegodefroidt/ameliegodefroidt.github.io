@@ -1,5 +1,5 @@
 ---
-title: "Does Islamist terrorism still affect political attitudes?"
+title: "Does Islamist Terrorism Still Affect Political Attitudes?"
 date: 2026-04-14
 tags: ["terrorism", "political attitudes", "desensitization", "public opinion", "meta-analysis", "natural experiment"]
 author: ["Micha Germann", "Amélie Godefroidt", "Fernando Mendez"]
@@ -30,7 +30,7 @@ Recent literature suggests that citizens in Western democracies have become dese
 
 ---
 
-##### Figure: Support for Truth Commissions
+##### Figure: Average reported effects of different Islamist terrorist attacks
 
 ![](2026_ejpr.png)
 
