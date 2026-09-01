@@ -27,6 +27,7 @@ editPost:
 ##### Abstract
 
 Recent literature suggests that citizens in Western democracies have become desensitized to Islamist terrorism and that Islamist attacks therefore no longer evoke the same changes in political attitudes as before. However, this hypothesis remains undertheorized and has not been systematically tested. We develop a theoretical framework that positions desensitization alongside alternative trajectories of public responsiveness and subject it to two complementary tests. In Study 1, we draw on a meta-analytic dataset of over 170 previous studies and 800 effect estimates to assess whether public reactions to Islamist terrorism have changed as a result of repeated exposure. In Study 2, we conduct a more controlled comparison of the effects of two recent Islamist terrorist attacks using a comparable research design and a new data source. Across both studies, we find little evidence that responsiveness has systemically diminished – or increased – over time, calling into question the presumed erosion of the effects of Islamist terrorism on political attitudes in Western democracies.
+
 ---
 
 ##### Figure: Support for Truth Commissions
