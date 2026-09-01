@@ -4,7 +4,7 @@ date: 2026-09-01
 tags: ["Ukraine", "political tolerance", "collaboration", "betrayal", "reconciliation", "conjoint experiment"]
 author: ["Lesley-Ann Daniels", "Amélie Godefroidt"]
 description: "Forthcoming in the American Journal of Political Science, this article examines how wartime collaboration, perceived betrayal, and efforts at redemption shape political tolerance in Ukraine."
-summary: "When do citizens tolerate compatriots who collaborated with the enemy? A conjoint experiment with 2,035 Ukrainians shows that tolerance depends strongly on perceived national betrayal: severe and ideologically motivated collaboration is harshly punished, while coercion and survival mitigate condemnation. Redemption is possible, but concrete actions speak louder than words."
+summary: "Evidence from a conjoint experiment with 2,035 Ukrainians shows that citizens are especially intolerant of collaborators who endanger the nation or act out of pro-Russian sympathies. Redemption is possible, but actions prove more effective than words."
 cover:
   image: "2026_ajps.jpeg"
   alt: "Collaboration, Perceived Betrayal, and Political Tolerance in Ukraine"
@@ -30,7 +30,7 @@ When democracies face existential threats, do citizens uphold the political righ
 
 ---
 
-##### Figure: Marginal means for the full experiment
+##### Figure: Theoretical Framework
 
 ![](2026_ajps.png)
 
