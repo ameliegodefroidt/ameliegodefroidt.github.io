@@ -1,56 +1,65 @@
 ---
-title: "What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria"
-date: 2023-05-01
-tags: ["peacebuilding","reintegration","conjoint experiment","Nigeria","public opinion"]
-author: ["Amélie Godefroidt","Arnim Langer"]
-description: "Published in the Journal of Peace Research, this article examines public attitudes toward the reintegration of former fighters in Nigeria using a conjoint experiment."
-summary: "This study investigates how Nigerian citizens evaluate reintegration scenarios for former fighters. Using a conjoint experiment, the article shows which attributes — such as remorse, community safety, and family ties — drive public support or resistance to reintegration."
+title: "How Terrorism Does (and Does Not) Affect Citizens’ Political Attitudes: A Meta-Analysis"
+date: 2023-01-01
+tags: ["political behavior","terrorism","public opinion","meta-analysis","political psychology"]
+author: ["Amélie Godefroidt"]
+description: "Published in the American Journal of Political Science, this article presents a meta-analysis of the effects of terrorism on social and political attitudes."
+summary: "This study provides the first comprehensive meta-analysis of terrorism’s impact on public opinion. By synthesizing evidence across diverse contexts and research designs, the paper shows that terrorism has systematic but limited effects on citizens’ political attitudes."
 cover:
-    image: jpr2023.jpeg
-    alt: "Reintegration of Former Fighters in Nigeria"
+    image: ajps2023.png
+    alt: "AJPS Terrorism Meta-Analysis"
     relative: true
 editPost:
-    URL: "https://doi.org/10.1177/00223433221087070"
-    Text: "Journal of Peace Research"
+    URL: "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12692"
+    Text: "American Journal of Political Science"
+
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](jpr2023.pdf)
-+ [Appendix](jpr2023suppl.pdf)
-+ [Code and data](https://cdn.cloud.prio.org/files/e86529e7-f764-4515-8d55-d337339c86f3/GodefroidtLanger_2021_ReplicationFiles_final.zip)
-  
++ [Paper](ajps2023.pdf)
++ [Appendix](ajps2023suppl.pdf)
++ [Shiny App](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
++ [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K4L5YI)
+
 ---
 
 ##### Abstract
 
-Reintegrating ex-combatants back into society is one of the most challenging, yet fundamental components to building sustainable peace. While previous work has extensively evaluated the reintegration trajectories of ex-combatants, there is still little understanding of how citizens think about reintegration. In this article, we systematically analyze which former fighters people prefer to reintegrate into society. Based on theories of threat and justice, we develop a heuristic framework that explains how information about the motivations and behavior of ex-combatants shapes public preferences about whom to reintegrate. We test this framework using a conjoint experiment conducted among approximately 2,000 (former) university students in Nigeria. We find that our respondents are more forgiving towards former fighters who were forced to join the insurgency and expressed remorse afterwards, while being less willing to reintegrate more militant and less repentant offenders. Similar informational cues shape respondents’ evaluations of how successful the reintegration process would be and what punishment would be appropriate. Taken together, the results underscore the importance of perceptions of risk and fairness in driving attitudes towards reintegration. Finally, subgroup analyses revealed that these heuristics are broadly held across different demographic and conflict-related fault lines. While caution is warranted when generalizing these results, insights gained in this specific context are nonetheless an important step towards advancing our understanding of reintegration processes in conflict-affected countries.
+How does terrorism affect citizens’ political attitudes? Over the years, many scholars have tried to answer this question. This article performs a meta-analysis on this literature, reviewing about 325 studies conducted between 1985 and 2020 on more than 400,000 respondents. The findings confirm that terrorism is associated—to a small but significant extent—with outgroup hostility, political conservatism and rally-‘round-the-flag effects. At the same time, the effects of terrorism vary widely, with studies on Islamist violence, conducted in the United States or Israel, and using cross-sectional data yielding stronger results on average. Finally, the review reveals remaining gaps in this field of study, including a lack of research on non-Islamist violence or conducted in non-Western contexts. Taken together, this meta-analysis consolidates existing evidence, determines which results hold across contexts, and identifies key gaps in our current knowledge. Its data can also be accessed interactively via a Shiny App.
 
 ---
 
-##### Figure: Reintegration Preferences
+##### Figure: Meta-Analytic Evidence
 
-![](jpr2023.jpeg)
+![](ajps2023.png)
 
 ---
 
 ##### Citation
 
-Godefroidt, Amélie, and Arnim Langer. 2023. "What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria." *Journal of Peace Research* 60(3): 410–427. https://doi.org/10.1177/00223433221087070
+Godefroidt, Amélie. 2023. "How Terrorism Does (and Does Not) Affect Citizens’ Political Attitudes: A Meta-Analysis." *American Journal of Political Science* 67(1): 22–38. https://doi.org/10.1111/ajps.12692
 
 ```BibTeX
-@article{GodefroidtLanger2023,
-  author = {Godefroidt, Amélie and Langer, Arnim},
+@article{Godefroidt2023,
+  author = {Godefroidt, Amélie},
   year = {2023},
-  title ={What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria},
-  journal = {Journal of Peace Research},
-  volume = {60},
-  number = {3},
-  pages = {410--427},
-  doi = {10.1177/00223433221087070},
-  url = {https://doi.org/10.1177/00223433221087070}
+  title ={How Terrorism Does (and Does Not) Affect Citizens’ Political Attitudes: A Meta-Analysis},
+  journal = {American Journal of Political Science},
+  volume = {67},
+  number = {1},
+  pages = {22--38},
+  doi = {10.1111/ajps.12692},
+  url = {https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12692}
 }
 ```
 
+
+##### Related material
+
++ [Interactive dataset](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
++ [News coverage – Science Norway](https://partner.sciencenorway.no/conflict-ntnu-psychology/how-terrorism-affects-our-attitudes/2077957)
++ [News coverage – Deutsche Welle](https://www.dw.com/en/belgium-terrorist-shooting-underlines-tense-mood-in-europe/a-67127823)
++ [News coverage – Infolibre (Spain)](https://www.infolibre.es/politica/feijoo-castigo-inmigrantes-sur-sufriran-crimen-algeciras_1_1414724.html)

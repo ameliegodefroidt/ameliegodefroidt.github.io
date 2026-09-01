@@ -1,56 +1,55 @@
 ---
-title: "How Fear Drives Us Apart: Explaining the Relationship Between Terrorism and Social Trust"
-date: 2020-09-01
-tags: ["terrorism","fear","social trust","political psychology","public opinion"]
-author: ["Amélie Godefroidt","Arnim Langer"]
-description: "Published in Terrorism and Political Violence, this article analyzes how terrorism erodes social trust by heightening fear."
-summary: "This article demonstrates how terrorism-induced fear undermines social trust. Drawing on cross-national data and theoretical insights, it shows that terrorism reduces trust not through direct exposure alone but through the broader societal climate of fear it generates."
+title: "Understanding News Coverage of Religious-Based Violence: Empirical and Theoretical Insights from Media Representations of Boko Haram in Nigeria"
+date: 2020-08-01
+tags: ["media coverage","religious violence","Boko Haram","Nigeria","political communication"]
+author: ["Leila Demarest","Amélie Godefroidt","Arnim Langer"]
+description: "Published in the Journal of Communication, this article analyzes news coverage of Boko Haram in Nigeria to examine how media represent religious-based violence."
+summary: "Combining content analysis with in-depth interviews with journalists and editors, this article shows how religious-based violence is framed, how editorial choices and professional constraints shape coverage, and what this means for our theoretical understanding of conflict coverage."
 cover:
-    image: "tpv2020.png"
-    alt: "Terrorism and Social Trust"
+    image: "joc2020.png"
+    alt: "News Coverage of Boko Haram"
     relative: true
 editPost:
-    URL: "https://doi.org/10.1080/09546553.2018.1482829"
-    Text: "Terrorism and Political Violence"
+    URL: "https://doi.org/10.1093/joc/jqaa011"
+    Text: "Journal of Communication"
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](tpv2020.pdf)
-+ [Replication Package](https://doi.org/10.7910/DVN/YQRUJR)
-
++ [Paper](joc2020.pdf)
++ [Supplementary Materials](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/joc/70/4/10.1093_joc_jqaa011/1/jqaa011_supplementary_data.zip?Expires=1759849917&Signature=OxMHmb2J7vxVluCp3wPQLNVK6fXZvxBjZZ5gxwR4SMwQDenw0yjrge6vYKlI37lxYzKFTjTyEp0rFXorMmvvy7El6ijGWT0a3VIhALmEVDQigmICLkoQY8O81mLSn~~RRulb~HzuI6AxLbr9cGfvNJKz5~0pJEO7U9m9xv-d6u9yE1cA9Q9JpSdyXRWP7EVXAdNxdorLH3kwaAgAX1B375DhUAL4SWlTzTbtcjQotweIMqzRCiKoPjUwcP3U4GiyUGpTIVPEqPYVI1kKTtNDfkAwrGWuLpBzYa7hZ-BX4guNdmjiLRfTrhzz44EIMeFXQFEqNPcNBzYBjZ3eXxEiOw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+    
 ---
 
 ##### Abstract
 
-A central aim of terrorism is to drive people apart and destroy social trust. Still, there is little empirical research which has systematically investigated the relationship between terrorist attacks, fear of terrorism, and social trust. In addition, the impact of terrorism is usually assumed to be uniform across different individuals and societies. In order to investigate the impact of terrorism as well as the fear of future terrorism on trust levels of different types of individuals and societies, we combine individual-level survey data of the most recent World Values Survey (WVS, Round 6, 2010–2014) with several indicators at the country-level. Our findings show that social trust is principally damaged by the fear of future terrorist attacks, more so than by past terrorist attacks. Moreover, this deleterious impact of the fear of terrorism on social trust is most prevalent in more democratic countries and among individuals who are more frequently exposed to television news. Hence, with relatively limited capabilities and resources, terrorists may therefore evoke disproportionate fear effects within democratic societies which are, at least partially, fueled by media exposure.
+Recent studies on conflict and terrorism news coverage have documented an ingroup bias as well as an increasingly negative discourse about Muslims in the wake of Islamist terrorist attacks. Yet, as most of these studies have focused on Western media and settings, the determinants of news media’s religious biases and out-group categorizations remain insufficiently understood. In this article, we draw on interviews with Nigerian media practitioners and a comparison of Boko Haram news coverage in two Nigerian newspapers—one Southern-based/Christian-affiliated and one Northern-based/Muslim-affiliated—to argue that it is crucial to consider a country’s political-religious demography in order to understand the way in which religious-based violence is covered in the news. In this respect, we identify micro-, meso- and macro-level theoretical mechanisms through which a country’s demography can promote domestic news outlets—regardless of their background and readership—to cover conflict in a more balanced, nuanced, and objective way.
 
 ---
 
-##### Figure: Terrorism and Social Trust
+##### Figure: Power Dynamics and News Coverage
 
-![](tpv2020.png)
+![](joc2020.png)
 
 ---
 
 ##### Citation
 
-Godefroidt, Amélie, and Arnim Langer. 2020. "How Fear Drives Us Apart: Explaining the Relationship Between Terrorism and Social Trust." *Terrorism and Political Violence* 32(7): 1482–1505. https://doi.org/10.1080/09546553.2018.1482829
+Demarest, Leila, Amélie Godefroidt, and Arnim Langer. 2020. "Understanding News Coverage of Religious-Based Violence: Empirical and Theoretical Insights from Media Representations of Boko Haram in Nigeria." *Journal of Communication* 70(4): 548–573. https://doi.org/10.1093/joc/jqaa011
 
 ```BibTeX
-@article{GodefroidtLanger2020,
-  author = {Godefroidt, Amélie and Langer, Arnim},
+@article{DemarestGodefroidtLanger2020,
+  author = {Demarest, Leila and Godefroidt, Amélie and Langer, Arnim},
   year = {2020},
-  title ={How Fear Drives Us Apart: Explaining the Relationship Between Terrorism and Social Trust},
-  journal = {Terrorism and Political Violence},
-  volume = {32},
-  number = {7},
-  pages = {1482--1505},
-  doi = {10.1080/09546553.2018.1482829},
-  url = {https://doi.org/10.1080/09546553.2018.1482829}
+  title ={Understanding News Coverage of Religious-Based Violence: Empirical and Theoretical Insights from Media Representations of Boko Haram in Nigeria},
+  journal = {Journal of Communication},
+  volume = {70},
+  number = {4},
+  pages = {548--573},
+  doi = {10.1093/joc/jqaa011},
+  url = {https://doi.org/10.1093/joc/jqaa011}
 }
 ```
-
 

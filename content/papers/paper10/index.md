@@ -1,55 +1,56 @@
 ---
-title: "The Past, Brexit, and the Future in Northern Ireland: A Quasi-Natural Experiment"
-date: 2023-02-01
-tags: ["Brexit","Northern Ireland","quasi-natural experiment","public opinion","conflict"]
-author: ["Amélie Godefroidt","Karin Dyrstad","Kristin Bakke"]
-description: "Published in the Journal of Elections, Public Opinion and Parties, this article uses a quasi-natural experiment to examine how Brexit affected political attitudes in Northern Ireland."
-summary: "This study leverages a quasi-natural experiment to investigate how Brexit reshaped attitudes in Northern Ireland. The article shows that both the Brexit campaign and its outcome interacted with historical conflict narratives to influence public perceptions of the future of Northern Ireland."
+title: "What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria"
+date: 2023-05-01
+tags: ["peacebuilding","reintegration","conjoint experiment","Nigeria","public opinion"]
+author: ["Amélie Godefroidt","Arnim Langer"]
+description: "Published in the Journal of Peace Research, this article examines public attitudes toward the reintegration of former fighters in Nigeria using a conjoint experiment."
+summary: "This study investigates how Nigerian citizens evaluate reintegration scenarios for former fighters. Using a conjoint experiment, the article shows which attributes — such as remorse, community safety, and family ties — drive public support or resistance to reintegration."
 cover:
-    image: "jepop2023.jpeg"
-    alt: "Brexit and Public Opinion in Northern Ireland"
+    image: jpr2023.jpeg
+    alt: "Reintegration of Former Fighters in Nigeria"
     relative: true
 editPost:
-    URL: "https://doi.org/10.1080/17457289.2022.2090951"
-    Text: "Journal of Elections, Public Opinion and Parties"
+    URL: "https://doi.org/10.1177/00223433221087070"
+    Text: "Journal of Peace Research"
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](jepop2023.pdf)
-
++ [Paper](jpr2023.pdf)
++ [Appendix](jpr2023suppl.pdf)
++ [Code and data](https://cdn.cloud.prio.org/files/e86529e7-f764-4515-8d55-d337339c86f3/GodefroidtLanger_2021_ReplicationFiles_final.zip)
+  
 ---
 
 ##### Abstract
 
-The UK’s decision to leave the European Union has raised questions about whether Brexit might bring “the Troubles” back to Northern Ireland. We exploit the timing of a unique survey to examine how the EU referendum campaign and its outcome shaped perceptions about the past conflict and preferences for the future in Northern Ireland. The survey reveals that, after the Leave vote, people were more likely to perceive the partitioning of the Island of Ireland and illegitimate rule of Westminster as important conflict causes. Respondents surveyed after the referendum were also more likely to see reunification with Ireland as desirable, and changes in conflict perceptions contributed to this change in preferences for the future. At the same time, public responses seem to be the result of a gradual change during the _campaign_ rather than a shock effect to the _outcome_, and effects decay quickly. These findings contribute to a better understanding of the micro-foundations driving post-Brexit public opinion in Northern Ireland and the potential consequences of holding contentious referendums more generally.
+Reintegrating ex-combatants back into society is one of the most challenging, yet fundamental components to building sustainable peace. While previous work has extensively evaluated the reintegration trajectories of ex-combatants, there is still little understanding of how citizens think about reintegration. In this article, we systematically analyze which former fighters people prefer to reintegrate into society. Based on theories of threat and justice, we develop a heuristic framework that explains how information about the motivations and behavior of ex-combatants shapes public preferences about whom to reintegrate. We test this framework using a conjoint experiment conducted among approximately 2,000 (former) university students in Nigeria. We find that our respondents are more forgiving towards former fighters who were forced to join the insurgency and expressed remorse afterwards, while being less willing to reintegrate more militant and less repentant offenders. Similar informational cues shape respondents’ evaluations of how successful the reintegration process would be and what punishment would be appropriate. Taken together, the results underscore the importance of perceptions of risk and fairness in driving attitudes towards reintegration. Finally, subgroup analyses revealed that these heuristics are broadly held across different demographic and conflict-related fault lines. While caution is warranted when generalizing these results, insights gained in this specific context are nonetheless an important step towards advancing our understanding of reintegration processes in conflict-affected countries.
 
 ---
 
-##### Figure: Brexit and Attitudes in Northern Ireland
+##### Figure: Reintegration Preferences
 
-![](jepop2023.jpeg)
+![](jpr2023.jpeg)
 
 ---
 
 ##### Citation
 
-Godefroidt, Amélie, Karin Dyrstad, and Kristin Bakke. 2023. "The Past, Brexit, and the Future in Northern Ireland: A Quasi-Natural Experiment." *Journal of Elections, Public Opinion and Parties* 33(1): 149–161. https://doi.org/10.1080/17457289.2022.2090951
+Godefroidt, Amélie, and Arnim Langer. 2023. "What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria." *Journal of Peace Research* 60(3): 410–427. https://doi.org/10.1177/00223433221087070
 
 ```BibTeX
-@article{GodefroidtDyrstadBakke2023,
-  author = {Godefroidt, Amélie and Dyrstad, Karin and Bakke, Kristin},
+@article{GodefroidtLanger2023,
+  author = {Godefroidt, Amélie and Langer, Arnim},
   year = {2023},
-  title ={The Past, Brexit, and the Future in Northern Ireland: A Quasi-Natural Experiment},
-  journal = {Journal of Elections, Public Opinion and Parties},
-  volume = {33},
-  number = {1},
-  pages = {149--161},
-  doi = {10.1080/17457289.2022.2090951},
-  url = {https://doi.org/10.1080/17457289.2022.2090951}
+  title ={What Drives Attitudes Towards the Reintegration of Former Fighters? Insights from a Conjoint Experiment in Nigeria},
+  journal = {Journal of Peace Research},
+  volume = {60},
+  number = {3},
+  pages = {410--427},
+  doi = {10.1177/00223433221087070},
+  url = {https://doi.org/10.1177/00223433221087070}
 }
 ```
-
 

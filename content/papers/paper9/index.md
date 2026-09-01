@@ -1,65 +1,55 @@
 ---
-title: "How Terrorism Does (and Does Not) Affect Citizens’ Political Attitudes: A Meta-Analysis"
-date: 2023-01-01
-tags: ["political behavior","terrorism","public opinion","meta-analysis","political psychology"]
-author: ["Amélie Godefroidt"]
-description: "Published in the American Journal of Political Science, this article presents a meta-analysis of the effects of terrorism on social and political attitudes."
-summary: "This study provides the first comprehensive meta-analysis of terrorism’s impact on public opinion. By synthesizing evidence across diverse contexts and research designs, the paper shows that terrorism has systematic but limited effects on citizens’ political attitudes."
+title: "The Past, Brexit, and the Future in Northern Ireland: A Quasi-Natural Experiment"
+date: 2023-02-01
+tags: ["Brexit","Northern Ireland","quasi-natural experiment","public opinion","conflict"]
+author: ["Amélie Godefroidt","Karin Dyrstad","Kristin Bakke"]
+description: "Published in the Journal of Elections, Public Opinion and Parties, this article uses a quasi-natural experiment to examine how Brexit affected political attitudes in Northern Ireland."
+summary: "This study leverages a quasi-natural experiment to investigate how Brexit reshaped attitudes in Northern Ireland. The article shows that both the Brexit campaign and its outcome interacted with historical conflict narratives to influence public perceptions of the future of Northern Ireland."
 cover:
-    image: ajps2023.png
-    alt: "AJPS Terrorism Meta-Analysis"
+    image: "jepop2023.jpeg"
+    alt: "Brexit and Public Opinion in Northern Ireland"
     relative: true
 editPost:
-    URL: "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12692"
-    Text: "American Journal of Political Science"
-
+    URL: "https://doi.org/10.1080/17457289.2022.2090951"
+    Text: "Journal of Elections, Public Opinion and Parties"
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](ajps2023.pdf)
-+ [Appendix](ajps2023suppl.pdf)
-+ [Shiny App](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
-+ [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K4L5YI)
++ [Paper](jepop2023.pdf)
 
 ---
 
 ##### Abstract
 
-How does terrorism affect citizens’ political attitudes? Over the years, many scholars have tried to answer this question. This article performs a meta-analysis on this literature, reviewing about 325 studies conducted between 1985 and 2020 on more than 400,000 respondents. The findings confirm that terrorism is associated—to a small but significant extent—with outgroup hostility, political conservatism and rally-‘round-the-flag effects. At the same time, the effects of terrorism vary widely, with studies on Islamist violence, conducted in the United States or Israel, and using cross-sectional data yielding stronger results on average. Finally, the review reveals remaining gaps in this field of study, including a lack of research on non-Islamist violence or conducted in non-Western contexts. Taken together, this meta-analysis consolidates existing evidence, determines which results hold across contexts, and identifies key gaps in our current knowledge. Its data can also be accessed interactively via a Shiny App.
+The UK’s decision to leave the European Union has raised questions about whether Brexit might bring “the Troubles” back to Northern Ireland. We exploit the timing of a unique survey to examine how the EU referendum campaign and its outcome shaped perceptions about the past conflict and preferences for the future in Northern Ireland. The survey reveals that, after the Leave vote, people were more likely to perceive the partitioning of the Island of Ireland and illegitimate rule of Westminster as important conflict causes. Respondents surveyed after the referendum were also more likely to see reunification with Ireland as desirable, and changes in conflict perceptions contributed to this change in preferences for the future. At the same time, public responses seem to be the result of a gradual change during the _campaign_ rather than a shock effect to the _outcome_, and effects decay quickly. These findings contribute to a better understanding of the micro-foundations driving post-Brexit public opinion in Northern Ireland and the potential consequences of holding contentious referendums more generally.
 
 ---
 
-##### Figure: Meta-Analytic Evidence
+##### Figure: Brexit and Attitudes in Northern Ireland
 
-![](ajps2023.png)
+![](jepop2023.jpeg)
 
 ---
 
 ##### Citation
 
-Godefroidt, Amélie. 2023. "How Terrorism Does (and Does Not) Affect Citizens’ Political Attitudes: A Meta-Analysis." *American Journal of Political Science* 67(1): 22–38. https://doi.org/10.1111/ajps.12692
+Godefroidt, Amélie, Karin Dyrstad, and Kristin Bakke. 2023. "The Past, Brexit, and the Future in Northern Ireland: A Quasi-Natural Experiment." *Journal of Elections, Public Opinion and Parties* 33(1): 149–161. https://doi.org/10.1080/17457289.2022.2090951
 
 ```BibTeX
-@article{Godefroidt2023,
-  author = {Godefroidt, Amélie},
+@article{GodefroidtDyrstadBakke2023,
+  author = {Godefroidt, Amélie and Dyrstad, Karin and Bakke, Kristin},
   year = {2023},
-  title ={How Terrorism Does (and Does Not) Affect Citizens’ Political Attitudes: A Meta-Analysis},
-  journal = {American Journal of Political Science},
-  volume = {67},
+  title ={The Past, Brexit, and the Future in Northern Ireland: A Quasi-Natural Experiment},
+  journal = {Journal of Elections, Public Opinion and Parties},
+  volume = {33},
   number = {1},
-  pages = {22--38},
-  doi = {10.1111/ajps.12692},
-  url = {https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12692}
+  pages = {149--161},
+  doi = {10.1080/17457289.2022.2090951},
+  url = {https://doi.org/10.1080/17457289.2022.2090951}
 }
 ```
 
 
-##### Related material
-
-+ [Interactive dataset](https://ameliegodefroidt.shinyapps.io/terrorism-attitudes-metaanalysis/)
-+ [News coverage – Science Norway](https://partner.sciencenorway.no/conflict-ntnu-psychology/how-terrorism-affects-our-attitudes/2077957)
-+ [News coverage – Deutsche Welle](https://www.dw.com/en/belgium-terrorist-shooting-underlines-tense-mood-in-europe/a-67127823)
-+ [News coverage – Infolibre (Spain)](https://www.infolibre.es/politica/feijoo-castigo-inmigrantes-sur-sufriran-crimen-algeciras_1_1414724.html)
