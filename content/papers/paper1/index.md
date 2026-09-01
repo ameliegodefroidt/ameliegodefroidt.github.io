@@ -6,7 +6,7 @@ author: ["Amélie Godefroidt","Anna Berbers","Leen d’Haenens"]
 description: "Published in International Communication Gazette, this article examines how American, British, French, and Russian newspapers framed the Syrian war."
 summary: "This study compares how newspapers in four countries covered the Syrian war before and after the 2013 chemical weapons attack. Using quantitative content analysis, the article shows that nationalization, responsibility, and conflict frames dominated coverage, while newspapers provided remarkably little contextual information."
 cover:
-    image: icg2016.jpeg
+    image: 2016_icg.jpeg
     alt: "Media Framing of the Syrian War"
     relative: true
 editPost:
@@ -18,7 +18,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](icg2016.pdf)
++ [Paper](2016_icg.pdf)
   
 ---
 
