@@ -1,6 +1,4 @@
-
 ---
-
 title: "You Traitor! Collaboration, Perceived Betrayal, and Political Tolerance in Ukraine"
 date: 2026-09-01
 tags: ["Ukraine", "political tolerance", "collaboration", "betrayal", "reconciliation", "conjoint experiment"]
@@ -8,13 +6,13 @@ author: ["Lesley-Ann Daniels", "Amélie Godefroidt"]
 description: "Forthcoming in the American Journal of Political Science, this article examines how wartime collaboration, perceived betrayal, and efforts at redemption shape political tolerance in Ukraine."
 summary: "When do citizens tolerate compatriots who collaborated with the enemy? A conjoint experiment with 2,035 Ukrainians shows that tolerance depends strongly on perceived national betrayal: severe and ideologically motivated collaboration is harshly punished, while coercion and survival mitigate condemnation. Redemption is possible, but concrete actions speak louder than words."
 cover:
-image: "2026_ajps.jpeg"
-alt: "Collaboration, Perceived Betrayal, and Political Tolerance in Ukraine"
-relative: true
+  image: "2026_ajps.jpeg"
+  alt: "Collaboration, Perceived Betrayal, and Political Tolerance in Ukraine"
+  relative: true
 editPost:
-URL: "https://ajps.org/"
-Text: "American Journal of Political Science (forthcoming)"
------------------------------------------------------------
+  URL: "https://ajps.org/"
+  Text: "American Journal of Political Science (forthcoming)"
+---
 
 ---
 
