@@ -1,7 +1,7 @@
 ---
 title: "Does Islamist terrorism still affect political attitudes?"
 date: 2026-04-14
-tags: ["terrorism" "political attitudes" "desensitization" "public opinion" "meta-analysis" "natural experiment"]
+tags: ["terrorism", "political attitudes", "desensitization", "public opinion", "meta-analysis", "natural experiment"]
 author: ["Micha Germann", "Amélie Godefroidt", "Fernando Mendez"]
 description: "Published in the European Journal of Political Science, this article examines whether citizens have become (politically) desensitized to Islamist terrorism."
 summary: "Are people becoming desensitized to terrorism? Drawing on a temporal meta-analysis and a controlled comparison of two natural experiments, we find little evidence that responsiveness has systematically diminished - or increased - over time."
