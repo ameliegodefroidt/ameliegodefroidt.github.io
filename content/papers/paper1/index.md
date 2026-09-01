@@ -30,7 +30,7 @@ Drawing on the agenda-setting and framing literature, this quantitative content 
 
 ##### Figure: Framing the Syrian War
 
-![](icg2016.jpeg)
+![](2016_icg.jpeg)
 
 ---
 
