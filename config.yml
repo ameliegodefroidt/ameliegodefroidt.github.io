@@ -1,18 +1,18 @@
 baseURL: "https://ameliegodefroidt.github.io" 
 title: Amélie Godefroidt
 theme: PaperMod
+pagination:
+  pagerSize: 40
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-pagination:
-  pagerSize: 20
 
 taxonomies:
     tag: tags
 
 menu:
     main:
-        - name: Publications
+        - name: Papers
           url: papers/
           weight: 1
         - name: Courses
