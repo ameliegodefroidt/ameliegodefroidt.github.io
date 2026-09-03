@@ -1,7 +1,7 @@
 ---
 
-title: "Students, Teachers, and Schools: A Multilevel Survey Dataset"
-date: 2026-01-01
+title: "Social Cohesion in My Class (SCC): A Multilevel Survey Dataset"
+date: 2018-10-01
 tags: ["students","teachers","schools","multilevel data","survey data","dataset"]
 author: ["Amélie Godefroidt","Maarten Schroyens","Arnim Langer"]
 description: "A multilevel survey dataset linking students to their teachers and schools."
@@ -33,12 +33,12 @@ This structure supports multilevel analyses as well as research on cross-level i
 
 ## Availability
 
-The dataset is currently **unpublished and not publicly available**.
+The dataset is currently **unpublished but publicly available via this website**.
 
-Researchers interested in the data or potential collaborations are welcome to [contact me](/contact/).
+Researchers interested in the data or potential collaborations are welcome to [contact me](/mailto:amelie.godefroidt@kuleuven.be/).
 
 ---
 
 ## Citation
 
-Godefroidt, A., Author 2, & Author 3. (2026). *Students, Teachers, and Schools: A Multilevel Survey Dataset*. Unpublished dataset.
+Godefroidt, A., Schroyens, M., & Arnim L. (2018). *Social Cohesion in My Class (SCC): A Multilevel Survey Dataset*. Unpublished dataset.
