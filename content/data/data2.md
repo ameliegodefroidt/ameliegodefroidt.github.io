@@ -2,10 +2,10 @@
 
 title: "Social Cohesion in My Class (SCC): A Multilevel Survey Dataset"
 date: 2018-10-01
-tags: ["students","teachers","schools","multilevel data","survey data","dataset"]
+tags: ["social cohesion","education","diversity","students","teachers","schools","multilevel data","survey data","dataset"]
 author: ["Amélie Godefroidt","Maarten Schroyens","Arnim Langer"]
-description: "A multilevel survey dataset linking students to their teachers and schools."
-summary: "This dataset combines survey data from students nested within schools with corresponding survey data from teachers. Its hierarchical structure makes it possible to study how individual attitudes and experiences relate to teacher and school-level characteristics, and can be further enriched with contextual school-level data."
+description: "A multilevel survey dataset on social cohesion, diversity, and societal attitudes among students and teachers in Flemish secondary schools."
+summary: "This dataset combines linked surveys of students and teachers from 60 secondary schools across Flanders. It measures how teachers engage with societal issues and increasing religious and cultural diversity in the classroom, alongside students’ perceptions and attitudes toward these issues. Its multilevel structure enables the study of how individual attitudes vary across educational contexts and can be further enriched with school-level characteristics."
 showToc: true
 disableAnchoredHeadings: false
 
@@ -13,27 +13,29 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-This dataset combines survey data collected among students with corresponding information from their teachers. Students are nested within schools, creating a multilevel data structure that allows individual-level attitudes and experiences to be examined alongside characteristics of teachers and educational environments.
+The **Social Cohesion in the Classroom** dataset was collected in 2018 to examine how schools navigate societal issues and increasing religious and cultural diversity. The study surveyed both teachers and students in the fifth and sixth years of secondary education across 60 schools in Flanders.
 
-The dataset can be further enriched with school-level contextual information, making it particularly suited for studying how individual attitudes and behaviors are shaped by the broader institutional and social environments in which students are embedded.
+The student survey captures perceptions and attitudes related to social cohesion, diversity, and broader societal issues, while the teacher survey provides complementary information on how these topics are approached within the classroom and school environment. By linking students and teachers to their schools, the dataset offers a distinctive multilevel perspective on the relationship between individual attitudes and educational contexts.
+
+The data can be further enriched with external school-level characteristics, allowing researchers to examine how institutional, demographic, and contextual differences between schools shape students' and teachers' attitudes.
 
 ---
 
 ## Data structure
 
-The data have a hierarchical structure linking multiple levels of observation:
+The dataset has a hierarchical structure connecting several levels of observation:
 
-* **Students:** individual-level survey responses and background characteristics.
-* **Teachers:** survey responses from teachers associated with the participating schools.
-* **Schools:** identifiers allowing respondents to be linked to their school context and supplemented with external school-level indicators.
+* **Students:** survey responses from fifth- and sixth-year secondary school students, including perceptions and attitudes toward societal issues, social cohesion, and religious and cultural diversity.
+* **Teachers:** survey responses on classroom practices and approaches to societal issues and diversity.
+* **Schools:** identifiers linking students and teachers to 60 participating Flemish secondary schools, which can be supplemented with additional school-level contextual indicators.
 
-This structure supports multilevel analyses as well as research on cross-level interactions between individual characteristics and educational contexts.
+This structure supports multilevel analyses of both individual-level and contextual variation, including cross-level interactions between student characteristics, teacher practices, and school environments.
 
 ---
 
 ## Availability
 
-The dataset is currently **unpublished but publicly available via this website**.
+The dataset is currently **unpublished, but publicly available via this website**.
 
 Researchers interested in the data or potential collaborations are welcome to [contact me](/mailto:amelie.godefroidt@kuleuven.be/).
 
