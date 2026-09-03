@@ -42,18 +42,18 @@ By the end of the course, students should be able to:
 
 ###### Main readings
 
-+ McNair (2011), *Politics in the Age of Mediation*
-+ McNair (2011), *Politics, Democracy, and Media*
++ [McNair (2011)](https://www.taylorfrancis.com/chapters/mono/10.4324/9781315750293-1/politics-age-mediation-brian-mcnair), *Politics in the Age of Mediation*
++ [McNair (2011)](https://www.taylorfrancis.com/chapters/mono/10.4324/9781315750293-2/politics-democracy-media-brian-mcnair?context=ubx), *Politics, Democracy, and Media*
 
 ###### Additional readings
 
-+ Kreiss & McGregor (2018), *Technology Firms Shape Political Communication*
-+ Mazzoleni & Schulz (1999), *“Mediatization” of Politics: A Challenge for Democracy?*
-+ Van Aelst et al. (2017), *Political Communication in a High-Choice Media Environment*
++ [Kreiss & McGregor (2018)](https://doi.org/10.1080/10584609.2017.1364814), *Technology Firms Shape Political Communication*
++ [Mazzoleni & Schulz (1999)](https://doi.org/10.1080/105846099198613), *“Mediatization” of Politics: A Challenge for Democracy?*
++ [Van Aelst et al. (2017)](https://doi.org/10.1080/23808985.2017.1288551), *Political Communication in a High-Choice Media Environment*
 
 ###### Course material
 
-+ Video: *Werken de media de democratie tegen?* [Do the media undermine democracy?]
++ Video: [*Werken de media de democratie tegen?*](https://www.youtube.com/watch?v=NJcg7nLxKFw&list=PLp0h5xjwuV1u44fEH9VhwLGPJ9dfPAfP8&index=3&ab_channel=UniversiteitvanVlaanderen) [Do the media undermine democracy?]
 
 ---
 
@@ -65,22 +65,22 @@ Comparative research illustrates how these processes operate across different po
 
 ###### Main readings
 
-+ de Vreese (2005), *News Framing: Theory and Typology*
-+ Iyengar (2017), *A Typology of Media Effects*
-+ Scheufele & Tewksbury (2007), *Framing, Agenda Setting, and Priming*
++ [de Vreese (2005)](https://d1wqtxts1xzle7.cloudfront.net/32324999/Framing-libre.pdf?1391562503=&response-content-disposition=inline%3B+filename%3D51_News_framing_Theory_and_typology.pdf&Expires=1695654626&Signature=LvIoh~Cs51KSe1sVCjZ7k~hU~b5WV0LiRIA~kcqhcl5heJ0AjMwYVdPYrW-MEiBUt7xmLHs04EFekgbgcorDhb0DxUnEnKhiYBVLoQdbgWrcL5~auVRN3RoA8ZHooGLdtMAdD9q27GXIS6NSiepGxFt3FepTxE3ao8FtXB5vQjjQBzmBaS-ija7xiCi8Y6UZ~Z2u2VLLHAuBHpKrKNEhWSSwpBpV5Q~Ks4VGZNTPRgzyNGdVWR8oe2MLZ43b1KGAewqrMj-Leq6v4WhyX0M1eCpjIsWg3LDi0FSB3~AYxRYw4rJ4Fk5mZjJg~KKvL61SaaeFM8nTquGfLj29zENmew__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), *News Framing: Theory and Typology*
++ [Iyengar (2017)](https://academic.oup.com/edited-volume/34621/chapter/294941962), *A Typology of Media Effects*
++ [Scheufele & Tewksbury (2007)](https://doi.org/10.1111/j.0021-9916.2007.00326.x), *Framing, Agenda Setting, and Priming*
 
 ###### Additional readings
 
-+ Chong & Druckman (2007), *Framing Theory*
-+ Demarest et al. (2020), *News Coverage of Religious-Based Violence* — Nigeria
-+ Harder et al. (2017), *Agenda-Setting in the Social Media Age*
-+ Strömbäck et al. (2016), *Do Politicians Lead the Tango?* — Sweden
-+ Walgrave & Van Aelst (2006), *Mass Media’s Political Agenda Setting Power*
-+ Walgrave (2008), *The Media's Political Agenda-Setting Power* — Belgium
++ [Chong & Druckman (2007)](https://doi.org/10.1146/annurev.polisci.10.072805.103054), *Framing Theory*
++ [Demarest et al. (2020)](https://doi.org/10.1093/joc/jqaa011), *News Coverage of Religious-Based Violence* — Nigeria
++ [Harder et al. (2017)](https://doi.org/10.1177%2F1940161217704969), *Agenda-Setting in the Social Media Age*
++ [Strömbäck et al. (2016)](https://doi.org/10.1177%2F0267323105064043), *Do Politicians Lead the Tango?* — Sweden
++ [Walgrave & Van Aelst (2006)](https://doi.org/10.1111/j.1460-2466.2006.00005.x), *Mass Media’s Political Agenda Setting Power*
++ [Walgrave (2008)](https://doi.org/10.1080/10584600802427047), *The Media's Political Agenda-Setting Power* — Belgium
 
 ###### Course material
 
-+ Video: *Kan nieuws neutraal zijn?* [Can news be neutral?]
++ Video: [*Kan nieuws neutraal zijn?*](https://www.youtube.com/watch?v=70K2m3TjSy0&ab_channel=UniversiteitvanVlaanderen) [Can news be neutral?]
 
 ---
 
@@ -92,18 +92,18 @@ The module also uses the Belgian **cordon médiatique** to examine the relations
 
 ###### Main readings
 
-+ Coppock et al. (2020), *The Small Effects of Political Advertising* — United States
-+ Lees-Marshment (2009), *Political Marketing*
++ [Coppock et al. (2020)](https://doi.org/10.1126/sciadv.abc4046), *The Small Effects of Political Advertising* — United States
++ [Lees-Marshment (2009)](https://www.taylorfrancis.com/books/mono/10.4324/9781315775043/political-marketing-jennifer-lees-marshment), *Political Marketing*
 
 ###### Additional readings
 
-+ Lau & Rovner (2009), *Negative Campaigning*
-+ Van Aelst et al. (2012), *The Personalization of Mediated Political Communication*
++ [Lau & Rovner (2009)](https://doi.org/10.1146/annurev.polisci.10.071905.101448), *Negative Campaigning*
++ [Van Aelst et al. (2012)](https://doi.org/10.1177%2F1464884911427802), *The Personalization of Mediated Political Communication*
 
 ###### Course material
 
-+ News article and video: *Cordon médiatique geschonden?* [Has the media cordon been broken?]
-+ Podcast: *LGBT Rights and the Politics of Visibility*
++ News article and video: [*Cordon médiatique geschonden?*](https://www.vrt.be/vrtnws/nl/2022/04/22/wallonie-reageert-na-debat-tussen-georges-louis-bouchez-mr-en-t/) [Has the media cordon been broken?]
++ Podcast: [*LGBT Rights and the Politics of Visibility*](https://soundcloud.com/user-467531770/episode-7-phillip-ayoub-lgbt-rights-and-the-politics-of-visibility)
 
 ---
 
@@ -115,17 +115,17 @@ The module connects classic work on motivated reasoning and selective exposure t
 
 ###### Main readings
 
-+ Boulianne (2020), *Twenty Years of Digital Media Effects on Civic and Political Participation*
-+ Haugsgjerd et al. (2022), *Increased Media Choice and Political Knowledge Gaps*
-+ Muise et al. (2021), *Quantifying Partisan News Diets in Web and TV Audiences*
-+ Taber & Lodge (2006), *Motivated Skepticism*
++ [Boulianne (2020)](https://doi.org/10.1177/0093650218808186), *Twenty Years of Digital Media Effects on Civic and Political Participation*
++ [Haugsgjerd et al. (2022)](https://doi.org/10.1080/10584609.2020.1868633), *Increased Media Choice and Political Knowledge Gaps*
++ [Muise et al. (2021)](https://doi.org/10.1126/sciadv.abn0083), *Quantifying Partisan News Diets in Web and TV Audiences*
++ [Taber & Lodge (2006)](https://doi.org/10.1111/j.1540-5907.2006.00214.x), *Motivated Skepticism*
 
 ###### Additional readings
 
-+ Aalberg (2013), *International TV News, Foreign Affairs Interest and Public Knowledge*
-+ Cinelli et al. (2021), *The Echo Chamber Effect on Social Media*
-+ Prior (2015), *How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout*
-+ Stroud (2008), *Revisiting the Concept of Selective Exposure*
++ [Aalberg (2013)](https://doi.org/10.1080/1461670X.2013.765636), *International TV News, Foreign Affairs Interest and Public Knowledge*
++ [Cinelli et al. (2021)](https://doi.org/10.1073/pnas.2023301118), *The Echo Chamber Effect on Social Media*
++ [Prior (2015)](https://doi.org/10.1111/j.1540-5907.2005.00143.x), *How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout*
++ [Stroud (2008)](https://link.springer.com/article/10.1007/s11109-007-9050-9), *Revisiting the Concept of Selective Exposure*
 
 ###### Practice material
 
@@ -141,21 +141,21 @@ A central question is whether **fact-checking and corrective information actuall
 
 ###### Main readings
 
-+ Arechar et al. (2023), *Understanding and Combatting Misinformation*
-+ Freelon & Wells (2020), *Disinformation as Political Communication*
-+ Nyhan & Reifler (2010), *When Corrections Fail*
++ [Arechar et al. (2023)](https://www.nature.com/articles/s41562-023-01641-6), *Understanding and Combatting Misinformation*
++ [Freelon & Wells (2020)](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1723755), *Disinformation as Political Communication*
++ [Nyhan & Reifler (2010)](https://link.springer.com/article/10.1007/s11109-010-9112-2), *When Corrections Fail*
 
 ###### Additional readings
 
-+ Badrinathan (2021), *Educative Interventions to Combat Misinformation*
-+ González-Bailón et al. (2023), *Asymmetric Ideological Segregation*
-+ Osmundsen et al. (2021), *Partisan Polarization and Fake News Sharing on Twitter*
-+ Redlawsk et al. (2010), *Do Motivated Reasoners Ever “Get It”?*
-+ Walter et al. (2020), *Fact-Checking: A Meta-Analysis of What Works and for Whom*
++ [Badrinathan (2021)](https://doi.org/10.1017/S0003055421000459), *Educative Interventions to Combat Misinformation*
++ [González-Bailón et al. (2023)](https://www.science.org/doi/10.1126/science.ade7138), *Asymmetric Ideological Segregation*
++ [Osmundsen et al. (2021)](https://www.cambridge.org/core/journals/american-political-science-review/article/partisan-polarization-is-the-primary-psychological-motivation-behind-political-fake-news-sharing-on-twitter/3F7D2098CD87AE5501F7AD4A7FA83602), *Partisan Polarization and Fake News Sharing on Twitter*
++ [Redlawsk et al. (2010)](https://doi.org/10.1111/j.1467-9221.2010.00772.x), *Do Motivated Reasoners Ever “Get It”?*
++ [Walter et al. (2020)](https://doi.org/10.1080/10584609.2019.1668894), *Fact-Checking: A Meta-Analysis of What Works and for Whom*
 
 ###### Course material
 
-+ Video: *Waarom geloof jij fake news?* [Why do you believe fake news?]
++ Video: [*Waarom geloof jij fake news?*](https://www.youtube.com/watch?v=StYfPhvGVlU&ab_channel=UniversiteitvanVlaanderen) [Why do you believe fake news?]
 
 ---
 
@@ -167,23 +167,23 @@ Students distinguish different dimensions of polarization and consider how emoti
 
 ###### Main readings
 
-+ Albertson et al. (2019), *The Emotional Aspects of Political Persuasion*
-+ Boussalis et al. (2021), *Gender, Candidate Emotional Expression, and Voter Reactions*
-+ Guess et al. (2023), *How Do Social Media Feed Algorithms Affect Attitudes and Behavior?*
-+ Nyhan et al. (2023), *Like-Minded Sources on Facebook Are Prevalent but Not Polarizing*
++ [Albertson et al. (2019)](https://doi.org/10.1093/oxfordhb/9780190860806.013.6), *The Emotional Aspects of Political Persuasion*
++ [Boussalis et al. (2021)](https://doi.org/10.1017/S0003055421000666), *Gender, Candidate Emotional Expression, and Voter Reactions*
++ [Guess et al. (2023)](https://www.science.org/doi/10.1126/science.abp9364), *How Do Social Media Feed Algorithms Affect Attitudes and Behavior?*
++ [Nyhan et al. (2023)](https://www.nature.com/articles/s41586-023-06297-w), *Like-Minded Sources on Facebook Are Prevalent but Not Polarizing*
 
 ###### Additional readings
 
-+ de Benedictis-Kessner et al. (2019), *Persuading the Enemy*
-+ Druckman et al. (2022), *(Mis)estimating Affective Polarization*
-+ Fridkin & Gershon (2021), *Nothing More Than Feelings?*
-+ Harteveld (2021), *Social Sorting and Affective Polarization*
-+ Koudenburg & Kashima (2022), *A Polarized Discourse*
-+ Wollebæk et al. (2019), *Anger, Fear, and Echo Chambers*
++ [de Benedictis-Kessner et al. (2019)](https://doi.org/10.1017/S0003055419000418), *Persuading the Enemy*
++ [Druckman et al. (2022)](https://www.journals.uchicago.edu/doi/epdf/10.1086/715603), *(Mis)estimating Affective Polarization*
++ [Fridkin & Gershon (2021)](https://doi.org/10.1080/10584609.2020.1784325), *Nothing More Than Feelings?*
++ [Harteveld (2021)](https://www.sciencedirect.com/science/article/pii/S0261379421000573), *Social Sorting and Affective Polarization*
++ [Koudenburg & Kashima (2022)](http://doi.org/10.1177/01461672211030816), *A Polarized Discourse*
++ [Wollebæk et al. (2019)](https://doi.org/10.1177/20563051198298), *Anger, Fear, and Echo Chambers*
 
 ###### Course material
 
-+ Video: *Kan je als journalist depolariseren?* [Can journalists depolarize?]
++ Video: [*Kan je als journalist depolariseren?*](https://www.youtube.com/watch?v=gjMIWKFDmwc&ab_channel=wij-zijpolarisatie) [Can journalists depolarize?]
 
 ---
 
@@ -195,15 +195,15 @@ The module asks what distinguishes populist communication from populism more bro
 
 ###### Main readings
 
-+ Goovaerts & Marien (2020), *Uncivil Communication and Simplistic Argumentation*
-+ Jagers & Walgrave (2007), *Populism as Political Communication Style* — Belgium
++ [Goovaerts & Marien (2020)](https://doi.org/10.1080/10584609.2020.1753868), *Uncivil Communication and Simplistic Argumentation*
++ [Jagers & Walgrave (2007)](https://doi.org/10.1111/j.1475-6765.2006.00690.x), *Populism as Political Communication Style* — Belgium
 
 ###### Additional readings
 
-+ de Vreese et al. (2018), *Populism as an Expression of Political Communication*
-+ Mudde (2004), *The Populist Zeitgeist*
-+ Muddiman (2017), *Personal and Public Levels of Political Incivility*
-+ Mutz & Reeves (2005), *The New Videomalaise*
++ [de Vreese et al. (2018)](https://journals.sagepub.com/doi/epub/10.1177/1940161218790035), *Populism as an Expression of Political Communication*
++ [Mudde (2004)](https://www.cambridge.org/core/journals/government-and-opposition/article/populist-zeitgeist/2CD34F8B25C4FFF4F322316833DB94B7), *The Populist Zeitgeist*
++ [Muddiman (2017)](https://ijoc.org/index.php/ijoc/article/view/6137), *Personal and Public Levels of Political Incivility*
++ [Mutz & Reeves (2005)](https://doi.org/10.1017/S0003055405051452), *The New Videomalaise*
 
 ---
 
@@ -215,17 +215,17 @@ It asks whether and how social media can mobilize citizens, why governments cens
 
 ###### Main readings
 
-+ Kuznetsova (2023), *Social Media Control During the Protests* — Belarus and Russia
-+ Pan & Siegel (2019), *How Saudi Crackdowns Fail to Silence Online Dissent* — Saudi Arabia
++ [Kuznetsova (2023)](https://www.tandfonline.com/doi/full/10.1080/10584609.2023.2233444), *Social Media Control During the Protests* — Belarus and Russia
++ [Pan & Siegel (2019)](https://doi.org/10.1017/S0003055419000650), *How Saudi Crackdowns Fail to Silence Online Dissent* — Saudi Arabia
 
 ###### Additional readings
 
-+ Corduneanu-Huci & Hamilton (2022), *The Political Economy of Censorship*
-+ Earl et al. (2022), *The Digital Repression of Social Movements, Protest, and Activism*
++ [Corduneanu-Huci & Hamilton (2022)](https://doi.org/10.1080/10584609.2022.2074587), *The Political Economy of Censorship*
++ [Earl et al. (2022)](https://www.science.org/doi/10.1126/sciadv.abl8198), *The Digital Repression of Social Movements, Protest, and Activism*
 
 ###### Course material
 
-+ Podcast: *Online Dissent, Offline Repression?*
++ Podcast: [*Online Dissent, Offline Repression?*](https://www.scopeconditionspodcast.com/episodes/episode-28-online-dissent-offline-repression-with-alex-siegel)
 
 ---
 
@@ -237,7 +237,7 @@ The session returns to one of the foundational questions of the course: **why do
 
 ###### Main reading
 
-+ Galtung & Ruge (1965), *The Structure of Foreign News*
++ [Galtung & Ruge (1965)](https://journals.sagepub.com/doi/abs/10.1177/002234336500200104), *The Structure of Foreign News*
 
 ###### Practice material
 
