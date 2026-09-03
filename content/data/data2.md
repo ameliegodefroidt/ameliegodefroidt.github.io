@@ -1,11 +1,13 @@
 ---
 
-title: "Social Cohesion in My Class: A Multi-Level Dataset"
-date: 2020-01-01
+title: "Students, Teachers, and Schools: A Multilevel Survey Dataset"
+date: 2026-01-01
 tags: ["students","teachers","schools","multilevel data","survey data","dataset"]
-author: ["Amélie Godefroidt","Maarten Schroyens,"Arnim Langer"]
+author: ["Amélie Godefroidt","Maarten Schroyens","Arnim Langer"]
 description: "A multilevel survey dataset linking students to their teachers and schools."
-summary: "This dataset combines survey data from students nested within schools with corresponding survey data from teachers. Its hierarchical structure makes it possible to study how individual attitudes and experiences relate to classroom, teacher, and school-level characteristics, and can be further enriched with contextual school-level data."
+summary: "This dataset combines survey data from students nested within schools with corresponding survey data from teachers. Its hierarchical structure makes it possible to study how individual attitudes and experiences relate to teacher and school-level characteristics, and can be further enriched with contextual school-level data."
+showToc: true
+disableAnchoredHeadings: false
 
 ---
 
@@ -39,4 +41,4 @@ Researchers interested in the data or potential collaborations are welcome to [c
 
 ## Citation
 
-Godefroidt, A. (2026). *Students, Teachers, and Schools: A Multilevel Survey Dataset*. Unpublished dataset.
+Godefroidt, A., Author 2, & Author 3. (2026). *Students, Teachers, and Schools: A Multilevel Survey Dataset*. Unpublished dataset.
